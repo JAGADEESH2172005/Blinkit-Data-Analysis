@@ -1,6 +1,6 @@
 # Blinkit-Data-Analysis
 **Blinkit Sales Analysis Dashboard**
-**Overview**
+## Overview
 
 Developed an interactive Power BI dashboard to analyze Blinkit's sales performance, customer preferences, and outlet efficiency. The dashboard enables stakeholders to monitor key business metrics and identify sales trends across products, outlet types, and locations.
 
@@ -34,8 +34,7 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales performan
 - Developed an interactive Power BI dashboard to analyze Blinkit sales performance.
 - Tracked key business KPIs including Total Sales, Average Sales, Number of Items, and Customer Ratings.
 - Created dynamic visualizations and interactive filters to uncover business insights and support decision-making.
-**Tools Used**
-  
+
 ## Tools Used
 
 - Power BI
@@ -56,12 +55,12 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales performan
 - Fruits, Snacks, and Household products were the top-selling categories.
 - Medium-sized outlets contributed the largest share of total sales.
 - Sales performance varied significantly across outlet establishment years and outlet types.
-- 
-**Dashboard Preview**
+
+## Dashboard Preview
 <img width="1224" height="744" alt="image" src="https://github.com/user-attachments/assets/cf1a6818-fe6f-4959-8364-3ff0f0d0d314" />
 
 
-**Author**
+## Author
 
 Jagadeesh Mannuru
 B.Tech – CSE (AI & DS)
