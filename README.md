@@ -5,6 +5,7 @@
 Developed an interactive Power BI dashboard to analyze Blinkit's sales performance, customer preferences, and outlet efficiency. The dashboard enables stakeholders to monitor key business metrics and identify sales trends across products, outlet types, and locations.
 
 **Key Metrics**
+
 Total Sales: ₹1.20M
 Average Sales: ₹141
 Number of Items: 8,523
@@ -40,4 +41,3 @@ Author
 Jagadeesh Mannuru
 B.Tech – CSE (AI & DS)
 
-These points are strong enough for a fresher Data Analyst/Data Science resume and GitHub portfolio.
