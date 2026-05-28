@@ -17,8 +17,10 @@ Outlet Establishment Year Trend Analysis
 Outlet Location Performance Comparison
 Outlet Size Distribution Analysis
 Outlet Type Performance Metrics
-Interactive Filters for Outlet Location, Outlet Size, and Item Type
+Interactive Filters for Outlet Location, Outlet Size, and Item Type.
+
 **Tools Used**
+
 Power BI
 Microsoft Excel
 Data Cleaning & Transformation
