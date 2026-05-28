@@ -6,7 +6,7 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales performan
 
 **Key Metrics**
 
-Total Sales: ₹1.20M
+Total Sales: ₹1.20M'
 Average Sales: ₹141
 Number of Items: 8,523
 Average Rating: 3.92
